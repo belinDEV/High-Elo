@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 # Node
 node_modules
+=======
+#Node
+/node_modules
+>>>>>>> d11be4b303ab0e7b67e546a1b1364aa00ab4dfec
